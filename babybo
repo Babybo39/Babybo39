@@ -1,0 +1,20 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Trần Văn Hải</title>
+    <title>Trần Văn Hải 12A2 THPT Phú Riềng</title>
+  </head>
+  <body>
+    <h2>Biện luận số nghiệm của phương trình bậc 2</h2>
+~    <h2><span style="color:red">Bài toán:</span> Xác định số nghiệm của phương trình ax <sup>2</sup> 
+~    + bx + c = 0 (a!=0)</h2>
+~    <h2><span style="color:red">Cách làm:</span></h2>
+~    <p><b>B<sub>1</sub></b>: Xác định hệ số a,b,c</p>
+~    <p><b>B<sub>2</sub></b>: Tính <b>delta</b> = b <sup>2</sup> - 4ac</p>
+~    <p><b>B<sub>3</sub></b>: Kết Luận <br>
+~    + Nếu <b>delta</b> &lt; 0: Phương trình <i>vô nghiệm</i><br>
+~    + Nếu <b>delta</b> = 0: Phương trình có <i>nghiệm duy nhất</i><br>
+~    + Nếu <b>delta</b> &gt; 0: Phương trình có hai <i>nghiệm phân biệt</i><br>
+~    </p>
+~  </body>
+~</html>
